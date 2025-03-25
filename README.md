@@ -20,6 +20,16 @@ The **Traffic Management System** is a C++ application designed to **regulate an
 - **DSA** (Queues for traffic flow, Graphs for route optimization)
 
 ## 📂 Project Structure
+📦 TrafficManagementSystem 
+
+┣ 📜 main.cpp # Main execution file 
+┣ 📜 TrafficSignal.cpp # Traffic signal logic 
+┣ 📜 Vehicle.cpp # Vehicle class handling 
+┣ 📜 Emergency.cpp # Emergency vehicle prioritization 
+┣ 📜 TrafficAnalysis.cpp # Congestion monitoring 
+┗ 📜 README.md # Project Documentation
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OneTeraByte7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
